@@ -1,0 +1,23 @@
+{
+  "name": "allway",
+  "version": "1.0.0",
+  "description": "server side",
+  "main": "server.js",
+  "scripts": {
+    "test": "run",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/indochinasp/allway.git"
+  },
+  "keywords": [
+    "allway"
+  ],
+  "author": "NgoDongDuong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indochinasp/allway/issues"
+  },
+  "homepage": "https://github.com/indochinasp/allway#readme"
+}
